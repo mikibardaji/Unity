@@ -18,3 +18,6 @@ També destruim la plataforma quant es troba a menys 15.
 **Debug** quant puges a producció, els prefabs tenen que anar obligatoriament, a la carpeta resources. Els assedatasets. sol existeixen quant treballem amb producció.
 
 ![Debug](debug.png "Debug")
+![](gitcheat.png)
+
+[![debug](debug "debug")](debug.png "debug")
