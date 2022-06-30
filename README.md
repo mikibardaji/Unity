@@ -8,7 +8,8 @@ També hem fet que sol es pugui fer un salt, i fins que no caigui no serveixi de
 #####PlayerController.cs
 RayOrigin es un raig, que serveix per saber, si col·lisiona, amb alguna forma, si la distancia amb lo que ha colisionat es menor que 1, llavors estas al terra. 
 Es un gameobject buit
-![RayCast](ray.png "RayCast")
+
+![RayCast](ray.PNG "RayCast")
 
 
 ##### Platformcontroller.cs
@@ -18,6 +19,3 @@ També destruim la plataforma quant es troba a menys 15.
 **Debug** quant puges a producció, els prefabs tenen que anar obligatoriament, a la carpeta resources. Els assedatasets. sol existeixen quant treballem amb producció.
 
 ![Debug](debug.PNG "Debug")
-![](gitcheat.png)
-
-[![debug](debug "debug")](debug.png "debug")
